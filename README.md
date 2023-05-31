@@ -1,6 +1,6 @@
 # CurrencyExchangeRateApp
 
-CurrencyExchangeRateApp is a currency exchange rate tracking and analysis application that utilizes data from the National Bank of Poland (NBP). It provides various features to help users search for currencies, visualize exchange rate trends through charts, calculate average rates, and identify maximum and minimum values. The application is developed using the following technologies: Python, PySide6, Pandas, Matplotlib, and API integration.
+CurrencyExchangeRateApp is a currency exchange rate tracking and analysis application that utilizes data from the National Bank of Poland (NBP). It provides various features to help users search for currencies, visualize exchange rate trends through charts, calculate average rates, and identify maximum and minimum values. 
 
 ## Features
 
